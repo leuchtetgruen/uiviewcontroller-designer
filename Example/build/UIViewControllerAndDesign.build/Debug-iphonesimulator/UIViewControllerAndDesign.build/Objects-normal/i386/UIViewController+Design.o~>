@@ -1,0 +1,18 @@
+/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m: In function '-[UIViewControllerWithDesignerExtensions recursevilyDisableUI:]':
+/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m:58: warning: 'UIView' may not respond to '-setEnabled:'
+/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m:58: warning: (Messages without a matching method signature
+/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m:58: warning: will be assumed to return 'id' and accept
+/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m:58: warning: '...' as arguments.)
+/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m: In function '-[UIViewControllerWithDesignerExtensions recursevilyEnableUI:]':
+/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m:65: warning: 'UIView' may not respond to '-setEnabled:'
+/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m: In function '-[UIViewControllerWithDesignerExtensions onSocket:didReadData:withTag:]':
+/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m:199: warning: 'UIViewControllerWithDesignerExtensions' may not respond to '-parseCommand:'
+/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m: In function '-[UIViewControllerWithDesignerExtensions parseCommand:]':
+/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m:214: warning: 'return' with no value, in function returning non-void
+/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m:290: warning: 'UIView' may not respond to '-setTextAlignment:'
+/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m:316: warning: 'UIView' may not respond to '-font'
+/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m: In function '-[UIViewControllerWithDesignerExtensions describeElement]':
+/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m:347: warning: 'UIView' may not respond to '-textColor'
+/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m:352: warning: 'UIView' may not respond to '-textAlignment'
+/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m:362: warning: 'UIView' may not respond to '-text'
+/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m:366: warning: 'UIView' may not respond to '-font'

@@ -1,0 +1,413 @@
+TUIViewControllerAndDesign
+v7
+r0
+t328442474.796988
+cCheck dependencies
+cProcessInfoPlistFile /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/UIViewControllerAndDesign.app/Info.plist UIViewControllerAndDesign-Info.plist
+cCompileXIB /Users/hanneswalz/Desktop/UIViewControllerAndDesign/MainWindow.xib
+cCompileXIB /Users/hanneswalz/Desktop/UIViewControllerAndDesign/UIViewControllerAndDesignViewController.xib
+cProcessPCH /var/folders/pU/pUGr1A2QF5Gq11dMlEWFdE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIViewControllerAndDesign_Prefix-ffnxhbmzrxvuvvdhyoadhijsgank/UIViewControllerAndDesign_Prefix.pch.gch UIViewControllerAndDesign_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/Objects-normal/i386/main.o /Users/hanneswalz/Desktop/UIViewControllerAndDesign/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/Objects-normal/i386/UIViewControllerAndDesignAppDelegate.o /Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewControllerAndDesignAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/Objects-normal/i386/UIViewControllerAndDesignViewController.o /Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewControllerAndDesignViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/Objects-normal/i386/UIViewController+Design.o /Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/Objects-normal/i386/AsyncSocket.o /Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/AsyncSocket.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/Objects-normal/i386/UIColor-Expanded.o /Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIColor-Expanded.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/UIViewControllerAndDesign.app/UIViewControllerAndDesign normal i386
+cGenerateDSYMFile /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/UIViewControllerAndDesign.app.dSYM /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/UIViewControllerAndDesign.app/UIViewControllerAndDesign
+cTouch /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/UIViewControllerAndDesign.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D957E7E0000000000000110
+t1301642878
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004D54CF7C00000000001C41F0
+t1297403772
+s1851888
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetwork.h
+c000000004D54CF5900000000000004CF
+t1297403737
+s1231
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004D54D2DD00000000000000C4
+t1297404637
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004D54D4200000000000162C50
+t1297404960
+s1453136
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/arpa/inet.h
+c000000004D54C5040000000000001533
+t1297401092
+s5427
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/netdb.h
+c000000004D54C504000000000000307F
+t1297401092
+s12415
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/netinet/in.h
+c000000004D54D0E60000000000006BAC
+t1297404134
+s27564
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/sys/socket.h
+c000000004D54D0EB0000000000005ACF
+t1297404139
+s23247
+
+N/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/AsyncSocket.h
+c000000004DE354650000000000007535
+t1306743909
+s30005
+i<Foundation/Foundation.h>
+
+N/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/AsyncSocket.m
+c000000004DE35465000000000001E66D
+t1306743909
+s124525
+i"AsyncSocket.h"
+i<sys/socket.h>
+i<netinet/in.h>
+i<arpa/inet.h>
+i<netdb.h>
+i<CFNetwork/CFNetwork.h>
+
+N/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIColor-Expanded.h
+c0000000049B01C160000000000000943
+t1236278294
+s2371
+i<UIKit/UIKit.h>
+
+N/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIColor-Expanded.m
+c0000000049B01C1600000000000040F4
+t1236278294
+s16628
+i"UIColor-Expanded.h"
+
+N/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.h
+c000000004DE38A610000000000000365
+t1306757729
+s869
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+i"AsyncSocket.h"
+i"UIColor-Expanded.h"
+
+N/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m
+c000000004DE377E20000000000003909
+t1306752994
+s14601
+i"UIViewController+Design.h"
+
+N/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewControllerAndDesignAppDelegate.h
+c000000004DE38A660000000000000197
+t1306757734
+s407
+i<UIKit/UIKit.h>
+
+N/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewControllerAndDesignAppDelegate.m
+c000000004DE38A6A0000000000000A52
+t1306757738
+s2642
+i"UIViewControllerAndDesignAppDelegate.h"
+i"UIViewControllerAndDesignViewController.h"
+
+N/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewControllerAndDesignViewController.h
+c000000004DE38A6F00000000000000A7
+t1306757743
+s167
+i<UIKit/UIKit.h>
+i"UIViewController+Design.h"
+
+N/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewControllerAndDesignViewController.m
+c000000004DE38A730000000000000564
+t1306757747
+s1380
+i"UIViewControllerAndDesignViewController.h"
+
+N/Users/hanneswalz/Desktop/UIViewControllerAndDesign/MainWindow.xib
+c000000004DDFB1BB0000000000004F01
+t1306505659
+s20225
+
+N/Users/hanneswalz/Desktop/UIViewControllerAndDesign/UIViewControllerAndDesignViewController.xib
+c000000004DDFB3CF00000000000056B9
+t1306506191
+s22201
+
+N/Users/hanneswalz/Desktop/UIViewControllerAndDesign/UIViewControllerAndDesign_Prefix.pch
+c000000004DDFB1BB00000000000000DB
+t1306505659
+s219
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/UIViewControllerAndDesign.app
+t1306749674
+s238
+
+N/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/UIViewControllerAndDesign.app.dSYM
+t1306749674
+s102
+
+N/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/UIViewControllerAndDesign.app/Info.plist
+t1306506049
+s669
+
+N/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/UIViewControllerAndDesign.app/MainWindow.nib
+t1306506049
+s1717
+
+N/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/UIViewControllerAndDesign.app/PkgInfo
+t1306506049
+s8
+
+N/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/UIViewControllerAndDesign.app/UIViewControllerAndDesign
+t1306749674
+s179936
+
+N/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/UIViewControllerAndDesign.app/UIViewControllerAndDesignViewController.nib
+t1306506192
+s3906
+
+N/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/Objects-normal/i386/AsyncSocket.o
+t1306744373
+s220100
+
+N/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/Objects-normal/i386/UIColor-Expanded.o
+t1306747538
+s49824
+
+N/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/Objects-normal/i386/UIViewController+Design.o
+t1306749674
+s83872
+
+N/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/Objects-normal/i386/UIViewControllerAndDesign.LinkFileList
+c000000004DE36292000000000000046B
+t1306747538
+s1131
+
+N/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/Objects-normal/i386/UIViewControllerAndDesignAppDelegate.o
+t1306749184
+s54836
+
+N/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/Objects-normal/i386/UIViewControllerAndDesignViewController.o
+t1306749184
+s41728
+
+N/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/Objects-normal/i386/main.o
+t1306506050
+s6336
+
+N/Users/hanneswalz/Desktop/UIViewControllerAndDesign/main.m
+c000000004DE38A7E00000000000000E7
+t1306757758
+s231
+i<UIKit/UIKit.h>
+
+N/var/folders/pU/pUGr1A2QF5Gq11dMlEWFdE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIViewControllerAndDesign_Prefix-ffnxhbmzrxvuvvdhyoadhijsgank/UIViewControllerAndDesign_Prefix.pch.gch
+t1306506050
+s15814064
+
+NUIViewControllerAndDesign-Info.plist
+c000000004DDFB1BB000000000000038D
+t1306505659
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies328442474#328442474#0(0"0(0#1#0"8638757184#0"0#
+
+CCompileC build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/Objects-normal/i386/AsyncSocket.o /Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/AsyncSocket.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328437172.373269
+e328437173.008438
+r1
+xCompileC
+xbuild/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/Objects-normal/i386/AsyncSocket.o
+x/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/AsyncSocket.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/AsyncSocket.m328437172#328437173#0(0"0(0#0#73"/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/AsyncSocket.m8631407872#2439"    cd /Users/hanneswalz/Desktop/UIViewControllerAndDesign    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/UIViewControllerAndDesign-generated-files.hmap -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/UIViewControllerAndDesign-own-target-headers.hmap -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/UIViewControllerAndDesign-all-target-headers.hmap -iquote /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/UIViewControllerAndDesign-project-headers.hmap -F/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/include -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/DerivedSources/i386 -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/DerivedSources -include /var/folders/pU/pUGr1A2QF5Gq11dMlEWFdE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIViewControllerAndDesign_Prefix-ffnxhbmzrxvuvvdhyoadhijsgank/UIViewControllerAndDesign_Prefix.pch -c /Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/AsyncSocket.m -o /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/Objects-normal/i386/AsyncSocket.o0#
+
+CCompileC build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/Objects-normal/i386/UIColor-Expanded.o /Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIColor-Expanded.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328440338.660217
+e328440338.807915
+r1
+xCompileC
+xbuild/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/Objects-normal/i386/UIColor-Expanded.o
+x/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIColor-Expanded.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIColor-Expanded.m328440338#328440338#0(0"0(0#0#78"/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIColor-Expanded.m8638707616#2449"    cd /Users/hanneswalz/Desktop/UIViewControllerAndDesign    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/UIViewControllerAndDesign-generated-files.hmap -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/UIViewControllerAndDesign-own-target-headers.hmap -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/UIViewControllerAndDesign-all-target-headers.hmap -iquote /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/UIViewControllerAndDesign-project-headers.hmap -F/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/include -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/DerivedSources/i386 -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/DerivedSources -include /var/folders/pU/pUGr1A2QF5Gq11dMlEWFdE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIViewControllerAndDesign_Prefix-ffnxhbmzrxvuvvdhyoadhijsgank/UIViewControllerAndDesign_Prefix.pch -c /Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIColor-Expanded.m -o /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/Objects-normal/i386/UIColor-Expanded.o0#
+
+CCompileC build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/Objects-normal/i386/UIViewController+Design.o /Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328442474.348402
+e328442474.554822
+r1
+xCompileC
+xbuild/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/Objects-normal/i386/UIViewController+Design.o
+x/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m: In function '-[UIViewControllerWithDesignerExtensions recursevilyDisableUI:]':
+o/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m:54: warning: 'UIView' may not respond to '-setEnabled:'
+o/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m:54: warning: (Messages without a matching method signature
+o/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m:54: warning: will be assumed to return 'id' and accept
+o/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m:54: warning: '...' as arguments.)
+o/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m: In function '-[UIViewControllerWithDesignerExtensions recursevilyEnableUI:]':
+o/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m:61: warning: 'UIView' may not respond to '-setEnabled:'
+o/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m: In function '-[UIViewControllerWithDesignerExtensions onSocket:didReadData:withTag:]':
+o/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m:195: warning: 'UIViewControllerWithDesignerExtensions' may not respond to '-parseCommand:'
+o/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m: In function '-[UIViewControllerWithDesignerExtensions parseCommand:]':
+o/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m:210: warning: 'return' with no value, in function returning non-void
+o/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m:286: warning: 'UIView' may not respond to '-setTextAlignment:'
+o/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m:312: warning: 'UIView' may not respond to '-font'
+o/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m: In function '-[UIViewControllerWithDesignerExtensions describeElement]':
+o/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m:343: warning: 'UIView' may not respond to '-textColor'
+o/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m:348: warning: 'UIView' may not respond to '-textAlignment'
+o/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m:358: warning: 'UIView' may not respond to '-text'
+o/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m:362: warning: 'UIView' may not respond to '-font'
+lSLF07#2@93"Compile /Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m328442474#328442474#0(2688"/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m: In function '-[UIViewControllerWithDesignerExtensions recursevilyDisableUI:]':/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m:54: warning: 'UIView' may not respond to '-setEnabled:'/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m:54: warning: (Messages without a matching method signature/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m:54: warning: will be assumed to return 'id' and accept/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m:54: warning: '...' as arguments.)/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m: In function '-[UIViewControllerWithDesignerExtensions recursevilyEnableUI:]':/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m:61: warning: 'UIView' may not respond to '-setEnabled:'/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m: In function '-[UIViewControllerWithDesignerExtensions onSocket:didReadData:withTag:]':/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m:195: warning: 'UIViewControllerWithDesignerExtensions' may not respond to '-parseCommand:'/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m: In function '-[UIViewControllerWithDesignerExtensions parseCommand:]':/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m:210: warning: 'return' with no value, in function returning non-void/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m:286: warning: 'UIView' may not respond to '-setTextAlignment:'/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m:312: warning: 'UIView' may not respond to '-font'/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m: In function '-[UIViewControllerWithDesignerExtensions describeElement]':/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m:343: warning: 'UIView' may not respond to '-textColor'/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m:348: warning: 'UIView' may not respond to '-textAlignment'/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m:358: warning: 'UIView' may not respond to '-text'/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m:362: warning: 'UIView' may not respond to '-font'11(22@42"'UIView' may not respond to '-setEnabled:'328442474#166#142#0(6@85"/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m328442474#54#0#54#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)328442474#308#145#0(6@85"/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m328442474#54#0#54#0#0"0(22@42"'UIView' may not respond to '-setEnabled:'328442474#879#142#0(6@85"/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m328442474#61#0#61#0#26"'*' may not respond to '*'0(22@76"'UIViewControllerWithDesignerExtensions' may not respond to '-parseCommand:'328442474#1195#177#0(6@85"/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m328442474#195#0#195#0#26"'*' may not respond to '*'0(22@54"'return' with no value, in function returning non-void328442474#1530#155#0(6@85"/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m328442474#210#0#210#0#54"'return' with no value, in function returning non-void0(22@48"'UIView' may not respond to '-setTextAlignment:'328442474#1685#149#0(6@85"/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m328442474#286#0#286#0#26"'*' may not respond to '*'0(22@35"'UIView' may not respond to '-font'328442474#1834#136#0(6@85"/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m328442474#312#0#312#0#26"'*' may not respond to '*'0(22@40"'UIView' may not respond to '-textColor'328442474#2130#141#0(6@85"/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m328442474#343#0#343#0#26"'*' may not respond to '*'0(22@44"'UIView' may not respond to '-textAlignment'328442474#2271#145#0(6@85"/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m328442474#348#0#348#0#26"'*' may not respond to '*'0(22@35"'UIView' may not respond to '-text'328442474#2416#136#0(6@85"/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m328442474#358#0#358#0#26"'*' may not respond to '*'0(22@35"'UIView' may not respond to '-font'328442474#2552#136#0(6@85"/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m328442474#362#0#362#0#26"'*' may not respond to '*'0(0#0#85"/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m8633483328#2463"    cd /Users/hanneswalz/Desktop/UIViewControllerAndDesign    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/UIViewControllerAndDesign-generated-files.hmap -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/UIViewControllerAndDesign-own-target-headers.hmap -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/UIViewControllerAndDesign-all-target-headers.hmap -iquote /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/UIViewControllerAndDesign-project-headers.hmap -F/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/include -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/DerivedSources/i386 -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/DerivedSources -include /var/folders/pU/pUGr1A2QF5Gq11dMlEWFdE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIViewControllerAndDesign_Prefix-ffnxhbmzrxvuvvdhyoadhijsgank/UIViewControllerAndDesign_Prefix.pch -c /Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewController+Design.m -o /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/Objects-normal/i386/UIViewController+Design.o0#
+
+CCompileC build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/Objects-normal/i386/UIViewControllerAndDesignAppDelegate.o /Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewControllerAndDesignAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328441984.434818
+e328442007.708198
+r1
+xCompileC
+xbuild/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/Objects-normal/i386/UIViewControllerAndDesignAppDelegate.o
+x/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewControllerAndDesignAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewControllerAndDesignAppDelegate.m328441984#328442007#0(0"0(0#0#98"/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewControllerAndDesignAppDelegate.m8602381568#2489"    cd /Users/hanneswalz/Desktop/UIViewControllerAndDesign    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/UIViewControllerAndDesign-generated-files.hmap -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/UIViewControllerAndDesign-own-target-headers.hmap -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/UIViewControllerAndDesign-all-target-headers.hmap -iquote /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/UIViewControllerAndDesign-project-headers.hmap -F/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/include -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/DerivedSources/i386 -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/DerivedSources -include /var/folders/pU/pUGr1A2QF5Gq11dMlEWFdE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIViewControllerAndDesign_Prefix-ffnxhbmzrxvuvvdhyoadhijsgank/UIViewControllerAndDesign_Prefix.pch -c /Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewControllerAndDesignAppDelegate.m -o /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/Objects-normal/i386/UIViewControllerAndDesignAppDelegate.o0#
+
+CCompileC build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/Objects-normal/i386/UIViewControllerAndDesignViewController.o /Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewControllerAndDesignViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328441984.437677
+e328442007.708476
+r1
+xCompileC
+xbuild/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/Objects-normal/i386/UIViewControllerAndDesignViewController.o
+x/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewControllerAndDesignViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@109"Compile /Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewControllerAndDesignViewController.m328441984#328442007#0(0"0(0#0#101"/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewControllerAndDesignViewController.m8638822368#2495"    cd /Users/hanneswalz/Desktop/UIViewControllerAndDesign    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/UIViewControllerAndDesign-generated-files.hmap -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/UIViewControllerAndDesign-own-target-headers.hmap -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/UIViewControllerAndDesign-all-target-headers.hmap -iquote /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/UIViewControllerAndDesign-project-headers.hmap -F/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/include -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/DerivedSources/i386 -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/DerivedSources -include /var/folders/pU/pUGr1A2QF5Gq11dMlEWFdE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIViewControllerAndDesign_Prefix-ffnxhbmzrxvuvvdhyoadhijsgank/UIViewControllerAndDesign_Prefix.pch -c /Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewControllerAndDesignViewController.m -o /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/Objects-normal/i386/UIViewControllerAndDesignViewController.o0#
+
+CCompileC build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/Objects-normal/i386/main.o /Users/hanneswalz/Desktop/UIViewControllerAndDesign/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328198850.450111
+e328198850.505674
+r1
+xCompileC
+xbuild/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/Objects-normal/i386/main.o
+x/Users/hanneswalz/Desktop/UIViewControllerAndDesign/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/hanneswalz/Desktop/UIViewControllerAndDesign/main.m328198850#328198850#0(0"0(0#0#58"/Users/hanneswalz/Desktop/UIViewControllerAndDesign/main.m8619543168#2417"    cd /Users/hanneswalz/Desktop/UIViewControllerAndDesign    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/UIViewControllerAndDesign-generated-files.hmap -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/UIViewControllerAndDesign-own-target-headers.hmap -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/UIViewControllerAndDesign-all-target-headers.hmap -iquote /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/UIViewControllerAndDesign-project-headers.hmap -F/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/include -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/DerivedSources/i386 -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/DerivedSources -include /var/folders/pU/pUGr1A2QF5Gq11dMlEWFdE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIViewControllerAndDesign_Prefix-ffnxhbmzrxvuvvdhyoadhijsgank/UIViewControllerAndDesign_Prefix.pch -c /Users/hanneswalz/Desktop/UIViewControllerAndDesign/main.m -o /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/hanneswalz/Desktop/UIViewControllerAndDesign/MainWindow.xib
+s328198849.248921
+e328198849.634808
+r1
+xCompileXIB
+x/Users/hanneswalz/Desktop/UIViewControllerAndDesign/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib328198849#328198849#0(0"0(0#0#66"/Users/hanneswalz/Desktop/UIViewControllerAndDesign/MainWindow.xib8612105664#627"    cd /Users/hanneswalz/Desktop/UIViewControllerAndDesign    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/UIViewControllerAndDesign.app/MainWindow.nib /Users/hanneswalz/Desktop/UIViewControllerAndDesign/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/hanneswalz/Desktop/UIViewControllerAndDesign/UIViewControllerAndDesignViewController.xib
+s328198992.445105
+e328198992.853999
+r1
+xCompileXIB
+x/Users/hanneswalz/Desktop/UIViewControllerAndDesign/UIViewControllerAndDesignViewController.xib
+lSLF07#2@54"CompileXIB UIViewControllerAndDesignViewController.xib328198992#328198992#0(0"0(0#0#95"/Users/hanneswalz/Desktop/UIViewControllerAndDesign/UIViewControllerAndDesignViewController.xib8651279552#685"    cd /Users/hanneswalz/Desktop/UIViewControllerAndDesign    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/UIViewControllerAndDesign.app/UIViewControllerAndDesignViewController.nib /Users/hanneswalz/Desktop/UIViewControllerAndDesign/UIViewControllerAndDesignViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/UIViewControllerAndDesign.app.dSYM /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/UIViewControllerAndDesign.app/UIViewControllerAndDesign
+s328442474.701739
+e328442474.794407
+r1
+xGenerateDSYMFile
+x/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/UIViewControllerAndDesign.app.dSYM
+x/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/UIViewControllerAndDesign.app/UIViewControllerAndDesign
+lSLF07#2@163"GenerateDSYMFile build/Debug-iphonesimulator/UIViewControllerAndDesign.app.dSYM build/Debug-iphonesimulator/UIViewControllerAndDesign.app/UIViewControllerAndDesign328442474#328442474#0(0"0(0#0#135"/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/UIViewControllerAndDesign.app/UIViewControllerAndDesign8602260672#476"    cd /Users/hanneswalz/Desktop/UIViewControllerAndDesign    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/UIViewControllerAndDesign.app/UIViewControllerAndDesign -o /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/UIViewControllerAndDesign.app.dSYM0#
+
+CLd /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/UIViewControllerAndDesign.app/UIViewControllerAndDesign normal i386
+s328442474.554918
+e328442474.701639
+r1
+xLd
+x/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/UIViewControllerAndDesign.app/UIViewControllerAndDesign
+xnormal
+xi386
+lSLF07#2@140"Link /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/UIViewControllerAndDesign.app/UIViewControllerAndDesign328442474#328442474#0(0"0(0#0#0"8630701632#1098"    cd /Users/hanneswalz/Desktop/UIViewControllerAndDesign    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator -F/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator -filelist /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/Objects-normal/i386/UIViewControllerAndDesign.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -framework CFNetwork -o /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/UIViewControllerAndDesign.app/UIViewControllerAndDesign0#
+
+CProcessInfoPlistFile /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/UIViewControllerAndDesign.app/Info.plist UIViewControllerAndDesign-Info.plist
+s328198849.245559
+e328198849.248844
+r1
+xProcessInfoPlistFile
+x/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/UIViewControllerAndDesign.app/Info.plist
+xUIViewControllerAndDesign-Info.plist
+lSLF07#2@44"Process UIViewControllerAndDesign-Info.plist328198849#328198849#0(0"0(0#0#88"/Users/hanneswalz/Desktop/UIViewControllerAndDesign/UIViewControllerAndDesign-Info.plist8613801600#572"    cd /Users/hanneswalz/Desktop/UIViewControllerAndDesign    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility UIViewControllerAndDesign-Info.plist -genpkginfo /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/UIViewControllerAndDesign.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/UIViewControllerAndDesign.app/Info.plist0#
+
+CProcessPCH /var/folders/pU/pUGr1A2QF5Gq11dMlEWFdE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIViewControllerAndDesign_Prefix-ffnxhbmzrxvuvvdhyoadhijsgank/UIViewControllerAndDesign_Prefix.pch.gch UIViewControllerAndDesign_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s328198849.643348
+e328198850.450008
+r1
+xProcessPCH
+x/var/folders/pU/pUGr1A2QF5Gq11dMlEWFdE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIViewControllerAndDesign_Prefix-ffnxhbmzrxvuvvdhyoadhijsgank/UIViewControllerAndDesign_Prefix.pch.gch
+xUIViewControllerAndDesign_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Precompile UIViewControllerAndDesign_Prefix.pch328198849#328198850#0(0"0(0#0#88"/Users/hanneswalz/Desktop/UIViewControllerAndDesign/UIViewControllerAndDesign_Prefix.pch8627267840#2278"    cd /Users/hanneswalz/Desktop/UIViewControllerAndDesign    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/UIViewControllerAndDesign-generated-files.hmap -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/UIViewControllerAndDesign-own-target-headers.hmap -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/UIViewControllerAndDesign-all-target-headers.hmap -iquote /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/UIViewControllerAndDesign-project-headers.hmap -F/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/include -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/DerivedSources/i386 -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/DerivedSources -c /Users/hanneswalz/Desktop/UIViewControllerAndDesign/UIViewControllerAndDesign_Prefix.pch -o /var/folders/pU/pUGr1A2QF5Gq11dMlEWFdE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIViewControllerAndDesign_Prefix-ffnxhbmzrxvuvvdhyoadhijsgank/UIViewControllerAndDesign_Prefix.pch.gch0#
+
+CTouch /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/UIViewControllerAndDesign.app
+s328442474.794530
+e328442474.796934
+r1
+xTouch
+x/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/UIViewControllerAndDesign.app
+lSLF07#2@115"Touch /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/UIViewControllerAndDesign.app328442474#328442474#0(0"0(0#0#0"8629587776#322"    cd /Users/hanneswalz/Desktop/UIViewControllerAndDesign    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/UIViewControllerAndDesign.app0#
+

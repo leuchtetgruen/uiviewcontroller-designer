@@ -1,0 +1,278 @@
+TUIViewControllerAndDesign
+v7
+r0
+t328198850.752452
+cCheck dependencies
+cProcessInfoPlistFile /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/UIViewControllerAndDesign.app/Info.plist UIViewControllerAndDesign-Info.plist
+cCompileXIB /Users/hanneswalz/Desktop/UIViewControllerAndDesign/MainWindow.xib
+cCompileXIB /Users/hanneswalz/Desktop/UIViewControllerAndDesign/UIViewControllerAndDesignViewController.xib
+cProcessPCH /var/folders/pU/pUGr1A2QF5Gq11dMlEWFdE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIViewControllerAndDesign_Prefix-ffnxhbmzrxvuvvdhyoadhijsgank/UIViewControllerAndDesign_Prefix.pch.gch UIViewControllerAndDesign_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/Objects-normal/i386/main.o /Users/hanneswalz/Desktop/UIViewControllerAndDesign/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/Objects-normal/i386/UIViewControllerAndDesignAppDelegate.o /Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewControllerAndDesignAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/Objects-normal/i386/UIViewControllerAndDesignViewController.o /Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewControllerAndDesignViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D957E7E0000000000000110
+t1301642878
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewControllerAndDesignAppDelegate.h
+c000000004DDFB1BB0000000000000252
+t1306505659
+s594
+i<UIKit/UIKit.h>
+
+N/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewControllerAndDesignAppDelegate.m
+c000000004DDFB2AC0000000000000B0D
+t1306505900
+s2829
+i"UIViewControllerAndDesignAppDelegate.h"
+i"UIViewControllerAndDesignViewController.h"
+
+N/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewControllerAndDesignViewController.h
+c000000004DDFB1BB000000000000012B
+t1306505659
+s299
+i<UIKit/UIKit.h>
+
+N/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewControllerAndDesignViewController.m
+c000000004DDFB3400000000000000924
+t1306506048
+s2340
+i"UIViewControllerAndDesignViewController.h"
+
+N/Users/hanneswalz/Desktop/UIViewControllerAndDesign/MainWindow.xib
+c000000004DDFB1BB0000000000004F01
+t1306505659
+s20225
+
+N/Users/hanneswalz/Desktop/UIViewControllerAndDesign/UIViewControllerAndDesignViewController.xib
+c000000004DDFB1BB0000000000001A8D
+t1306505659
+s6797
+
+N/Users/hanneswalz/Desktop/UIViewControllerAndDesign/UIViewControllerAndDesign_Prefix.pch
+c000000004DDFB1BB00000000000000DB
+t1306505659
+s219
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/UIViewControllerAndDesign.app
+t2
+s0
+
+N/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/UIViewControllerAndDesign.app.dSYM
+t2
+s0
+
+N/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/UIViewControllerAndDesign.app/Info.plist
+t1306506049
+s669
+
+N/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/UIViewControllerAndDesign.app/MainWindow.nib
+t1306506049
+s1717
+
+N/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/UIViewControllerAndDesign.app/PkgInfo
+t1306506049
+s8
+
+N/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/UIViewControllerAndDesign.app/UIViewControllerAndDesign
+t2
+s0
+
+N/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/UIViewControllerAndDesign.app/UIViewControllerAndDesignViewController.nib
+t1306506049
+s1269
+
+N/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/Objects-normal/i386/UIViewControllerAndDesign.LinkFileList
+c000000004DDFB3410000000000000244
+t1306506049
+s580
+
+N/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/Objects-normal/i386/UIViewControllerAndDesignAppDelegate.o
+t1306506050
+s52364
+
+N/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/Objects-normal/i386/UIViewControllerAndDesignViewController.o
+t2
+s0
+
+N/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/Objects-normal/i386/main.o
+t1306506050
+s6336
+
+N/Users/hanneswalz/Desktop/UIViewControllerAndDesign/main.m
+c000000004DDFB1BB0000000000000182
+t1306505659
+s386
+i<UIKit/UIKit.h>
+
+N/var/folders/pU/pUGr1A2QF5Gq11dMlEWFdE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIViewControllerAndDesign_Prefix-ffnxhbmzrxvuvvdhyoadhijsgank/UIViewControllerAndDesign_Prefix.pch.gch
+t1306506050
+s15814064
+
+NUIViewControllerAndDesign-Info.plist
+c000000004DDFB1BB000000000000038D
+t1306505659
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies328198849#328198849#0(0"0(0#1#0"8627752704#0"0#
+
+CCompileC build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/Objects-normal/i386/UIViewControllerAndDesignAppDelegate.o /Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewControllerAndDesignAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328198850.451172
+e328198850.752245
+r1
+xCompileC
+xbuild/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/Objects-normal/i386/UIViewControllerAndDesignAppDelegate.o
+x/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewControllerAndDesignAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewControllerAndDesignAppDelegate.m328198850#328198850#0(0"0(0#0#98"/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewControllerAndDesignAppDelegate.m8613725664#2489"    cd /Users/hanneswalz/Desktop/UIViewControllerAndDesign    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/UIViewControllerAndDesign-generated-files.hmap -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/UIViewControllerAndDesign-own-target-headers.hmap -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/UIViewControllerAndDesign-all-target-headers.hmap -iquote /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/UIViewControllerAndDesign-project-headers.hmap -F/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/include -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/DerivedSources/i386 -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/DerivedSources -include /var/folders/pU/pUGr1A2QF5Gq11dMlEWFdE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIViewControllerAndDesign_Prefix-ffnxhbmzrxvuvvdhyoadhijsgank/UIViewControllerAndDesign_Prefix.pch -c /Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewControllerAndDesignAppDelegate.m -o /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/Objects-normal/i386/UIViewControllerAndDesignAppDelegate.o0#
+
+CCompileC build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/Objects-normal/i386/UIViewControllerAndDesignViewController.o /Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewControllerAndDesignViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328198850.452321
+e328198850.515777
+r0
+xCompileC
+xbuild/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/Objects-normal/i386/UIViewControllerAndDesignViewController.o
+x/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewControllerAndDesignViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewControllerAndDesignViewController.m: In function '-[UIViewControllerAndDesignViewController findElementWithPoint:andSuperView:]':
+o/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewControllerAndDesignViewController.m:76: warning: control reaches end of non-void function
+o/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewControllerAndDesignViewController.m: In function '-[UIViewControllerAndDesignViewController touchesMoved:withEvent:]':
+o/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewControllerAndDesignViewController.m:87: error: request for member 'location' in something not a structure or union
+o/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewControllerAndDesignViewController.m:87: error: expected ')' before ';' token
+o/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewControllerAndDesignViewController.m:88: error: expected ';' before '}' token
+o{standard input}:313:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000004$pb"
+o{standard input}:313:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:307:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000004$pb"
+o{standard input}:307:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+o{standard input}:253:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000003$pb"
+o{standard input}:253:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:235:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000003$pb"
+o{standard input}:235:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:222:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000003$pb"
+o{standard input}:222:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:216:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000003$pb"
+o{standard input}:216:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+o{standard input}:191:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000003$pb"
+o{standard input}:191:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+o{standard input}:174:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000003$pb"
+o{standard input}:174:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+o{standard input}:149:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000003$pb"
+o{standard input}:149:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:143:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000003$pb"
+o{standard input}:143:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+o{standard input}:102:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000002$pb"
+o{standard input}:102:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:98:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000002$pb"
+o{standard input}:98:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression
+o{standard input}:56:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+o{standard input}:56:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:52:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000001$pb"
+o{standard input}:52:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7
+lSLF07#2@109"Compile /Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewControllerAndDesignViewController.m328198850#328198850#0(4818"/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewControllerAndDesignViewController.m: In function '-[UIViewControllerAndDesignViewController findElementWithPoint:andSuperView:]':/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewControllerAndDesignViewController.m:76: warning: control reaches end of non-void function/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewControllerAndDesignViewController.m: In function '-[UIViewControllerAndDesignViewController touchesMoved:withEvent:]':/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewControllerAndDesignViewController.m:87: error: request for member 'location' in something not a structure or union/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewControllerAndDesignViewController.m:87: error: expected ')' before ';' token/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewControllerAndDesignViewController.m:88: error: expected ';' before '}' token{standard input}:313:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000004$pb"{standard input}:313:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:307:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000004$pb"{standard input}:307:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression{standard input}:253:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000003$pb"{standard input}:253:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:235:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000003$pb"{standard input}:235:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:222:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000003$pb"{standard input}:222:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:216:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000003$pb"{standard input}:216:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression{standard input}:191:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000003$pb"{standard input}:191:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression{standard input}:174:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000003$pb"{standard input}:174:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression{standard input}:149:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000003$pb"{standard input}:149:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:143:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000003$pb"{standard input}:143:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression{standard input}:102:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000002$pb"{standard input}:102:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:98:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000002$pb"{standard input}:98:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression{standard input}:56:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"{standard input}:56:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:52:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000001$pb"{standard input}:52:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_74(22@40"Control reaches end of non-void function328198850#196#156#0(6@101"/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewControllerAndDesignViewController.m328198848#76#0#76#0#40"control reaches end of non-void function0(4@67"Request for member 'location' in something not a structure or union328198850#537#181#0(6@101"/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewControllerAndDesignViewController.m328198848#87#0#87#0#0"0(4@29"Expected ')' before ';' token328198850#718#143#0(6@101"/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewControllerAndDesignViewController.m328198848#87#0#87#0#19"expected * before *0(4@29"Expected ';' before '}' token328198850#861#143#0(6@101"/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewControllerAndDesignViewController.m328198848#88#0#88#0#19"expected * before *0(0#0#101"/Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewControllerAndDesignViewController.m8612945632#2495"    cd /Users/hanneswalz/Desktop/UIViewControllerAndDesign    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/UIViewControllerAndDesign-generated-files.hmap -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/UIViewControllerAndDesign-own-target-headers.hmap -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/UIViewControllerAndDesign-all-target-headers.hmap -iquote /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/UIViewControllerAndDesign-project-headers.hmap -F/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/include -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/DerivedSources/i386 -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/DerivedSources -include /var/folders/pU/pUGr1A2QF5Gq11dMlEWFdE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIViewControllerAndDesign_Prefix-ffnxhbmzrxvuvvdhyoadhijsgank/UIViewControllerAndDesign_Prefix.pch -c /Users/hanneswalz/Desktop/UIViewControllerAndDesign/Classes/UIViewControllerAndDesignViewController.m -o /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/Objects-normal/i386/UIViewControllerAndDesignViewController.o1#
+
+CCompileC build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/Objects-normal/i386/main.o /Users/hanneswalz/Desktop/UIViewControllerAndDesign/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328198850.450111
+e328198850.505674
+r1
+xCompileC
+xbuild/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/Objects-normal/i386/main.o
+x/Users/hanneswalz/Desktop/UIViewControllerAndDesign/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/hanneswalz/Desktop/UIViewControllerAndDesign/main.m328198850#328198850#0(0"0(0#0#58"/Users/hanneswalz/Desktop/UIViewControllerAndDesign/main.m8619543168#2417"    cd /Users/hanneswalz/Desktop/UIViewControllerAndDesign    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/UIViewControllerAndDesign-generated-files.hmap -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/UIViewControllerAndDesign-own-target-headers.hmap -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/UIViewControllerAndDesign-all-target-headers.hmap -iquote /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/UIViewControllerAndDesign-project-headers.hmap -F/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/include -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/DerivedSources/i386 -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/DerivedSources -include /var/folders/pU/pUGr1A2QF5Gq11dMlEWFdE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIViewControllerAndDesign_Prefix-ffnxhbmzrxvuvvdhyoadhijsgank/UIViewControllerAndDesign_Prefix.pch -c /Users/hanneswalz/Desktop/UIViewControllerAndDesign/main.m -o /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/hanneswalz/Desktop/UIViewControllerAndDesign/MainWindow.xib
+s328198849.248921
+e328198849.634808
+r1
+xCompileXIB
+x/Users/hanneswalz/Desktop/UIViewControllerAndDesign/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib328198849#328198849#0(0"0(0#0#66"/Users/hanneswalz/Desktop/UIViewControllerAndDesign/MainWindow.xib8612105664#627"    cd /Users/hanneswalz/Desktop/UIViewControllerAndDesign    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/UIViewControllerAndDesign.app/MainWindow.nib /Users/hanneswalz/Desktop/UIViewControllerAndDesign/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/hanneswalz/Desktop/UIViewControllerAndDesign/UIViewControllerAndDesignViewController.xib
+s328198849.249665
+e328198849.643220
+r1
+xCompileXIB
+x/Users/hanneswalz/Desktop/UIViewControllerAndDesign/UIViewControllerAndDesignViewController.xib
+lSLF07#2@54"CompileXIB UIViewControllerAndDesignViewController.xib328198849#328198849#0(0"0(0#0#95"/Users/hanneswalz/Desktop/UIViewControllerAndDesign/UIViewControllerAndDesignViewController.xib8611012768#685"    cd /Users/hanneswalz/Desktop/UIViewControllerAndDesign    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/UIViewControllerAndDesign.app/UIViewControllerAndDesignViewController.nib /Users/hanneswalz/Desktop/UIViewControllerAndDesign/UIViewControllerAndDesignViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/UIViewControllerAndDesign.app.dSYM /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/UIViewControllerAndDesign.app/UIViewControllerAndDesign
+r0
+
+CLd /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/UIViewControllerAndDesign.app/UIViewControllerAndDesign normal i386
+r0
+
+CProcessInfoPlistFile /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/UIViewControllerAndDesign.app/Info.plist UIViewControllerAndDesign-Info.plist
+s328198849.245559
+e328198849.248844
+r1
+xProcessInfoPlistFile
+x/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/UIViewControllerAndDesign.app/Info.plist
+xUIViewControllerAndDesign-Info.plist
+lSLF07#2@44"Process UIViewControllerAndDesign-Info.plist328198849#328198849#0(0"0(0#0#88"/Users/hanneswalz/Desktop/UIViewControllerAndDesign/UIViewControllerAndDesign-Info.plist8613801600#572"    cd /Users/hanneswalz/Desktop/UIViewControllerAndDesign    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility UIViewControllerAndDesign-Info.plist -genpkginfo /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/UIViewControllerAndDesign.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/UIViewControllerAndDesign.app/Info.plist0#
+
+CProcessPCH /var/folders/pU/pUGr1A2QF5Gq11dMlEWFdE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIViewControllerAndDesign_Prefix-ffnxhbmzrxvuvvdhyoadhijsgank/UIViewControllerAndDesign_Prefix.pch.gch UIViewControllerAndDesign_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s328198849.643348
+e328198850.450008
+r1
+xProcessPCH
+x/var/folders/pU/pUGr1A2QF5Gq11dMlEWFdE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIViewControllerAndDesign_Prefix-ffnxhbmzrxvuvvdhyoadhijsgank/UIViewControllerAndDesign_Prefix.pch.gch
+xUIViewControllerAndDesign_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Precompile UIViewControllerAndDesign_Prefix.pch328198849#328198850#0(0"0(0#0#88"/Users/hanneswalz/Desktop/UIViewControllerAndDesign/UIViewControllerAndDesign_Prefix.pch8627267840#2278"    cd /Users/hanneswalz/Desktop/UIViewControllerAndDesign    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/UIViewControllerAndDesign-generated-files.hmap -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/UIViewControllerAndDesign-own-target-headers.hmap -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/UIViewControllerAndDesign-all-target-headers.hmap -iquote /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/UIViewControllerAndDesign-project-headers.hmap -F/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/include -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/DerivedSources/i386 -I/Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/UIViewControllerAndDesign.build/Debug-iphonesimulator/UIViewControllerAndDesign.build/DerivedSources -c /Users/hanneswalz/Desktop/UIViewControllerAndDesign/UIViewControllerAndDesign_Prefix.pch -o /var/folders/pU/pUGr1A2QF5Gq11dMlEWFdE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIViewControllerAndDesign_Prefix-ffnxhbmzrxvuvvdhyoadhijsgank/UIViewControllerAndDesign_Prefix.pch.gch0#
+
+CTouch /Users/hanneswalz/Desktop/UIViewControllerAndDesign/build/Debug-iphonesimulator/UIViewControllerAndDesign.app
+r0
+
